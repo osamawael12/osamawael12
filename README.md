@@ -26,7 +26,6 @@
 
 ###
 
-<p align="left">I'm Osama  From  Egypt<br><br>- 🔭 I’m working as data analyst<br>- 📚 I'm currently learning machine learning</p>
 
 ###
 
