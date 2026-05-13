@@ -15,17 +15,19 @@
 
 <hr>
 
-### 🛠 Tech Stack
-`Python` • `SQL` • `Spark` • `dbt` • `Power BI` • `AWS` • `Docker` • `Git`
+<h3 align="center">🛠 Tech Stack</h3>
+<p align="center">
+<code>Python</code> • <code>SQL</code> • <code>Spark</code> • <code>dbt</code> • <code>Power BI</code> • <code>AWS</code> • <code>Docker</code> • <code>Git</code>
+</p>
 
 <hr>
 
-### 📊 GitHub Activity
+<h3 align="center">📊 GitHub Activity</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=osamawael12&show_icons=true&theme=transparent&hide_border=true" alt="Osama Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamawael12&show_icons=true&layout=compact&theme=transparent&hide_border=true" alt="Osama Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamawael12&show_icons=true&theme=react&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamawael12&show_icons=true&layout=compact&theme=react&hide_border=true" width="300" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=osamawael12&theme=transparent&hide_border=true" alt="Osama Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamawael12&theme=react&hide_border=true" width="710" />
 </p>
