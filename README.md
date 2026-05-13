@@ -1,33 +1,23 @@
-<h1 align="center">Hi 👋, I'm Osama Wael</h1>
-<h3 align="center">Data Engineer & Analyst</h3>
+<h1 align="center">Hi 👋, I'm osama wael</h1>
+<h3 align="center">Data Engineer & Analyst * Engineering: I build and scale robust data pipelines. Analytics: I turn complex data into clear business insights. Execution: I handle the full data lifecycle, from infrastructure to visualization.</h3>
 
-<p align="center">
-  <b>Engineering:</b> I build and scale robust data pipelines. <br>
-  <b>Analytics:</b> I turn complex data into clear business insights. <br>
-  <b>Execution:</b> I handle the full data lifecycle, from infrastructure to visualization.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=osamawael12&label=Profile%20views&color=0e75b6&style=flat" alt="osamawael12" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamawael12" alt="osamawael12" /></a> </p>
+
+- 📫 How to reach me **wosama623@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/osamawael12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="osamawael12" height="30" width="40" /></a>
+<a href="https://medium.com/@osamawael12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osamawael12" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="mailto:wosama623@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email%20Me-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=osamawael12&show_icons=true&locale=en&layout=compact" alt="osamawael12" /></p>
 
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-<code>Python</code> • <code>SQL</code> • <code>Spark</code> • <code>dbt</code> • <code>Power BI</code> • <code>AWS</code> • <code>Docker</code> • <code>Git</code>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamawael12&show_icons=true&locale=en" alt="osamawael12" /></p>
 
-<hr>
-
-<h3 align="center">📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamawael12&show_icons=true&theme=react&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamawael12&show_icons=true&layout=compact&theme=react&hide_border=true" width="300" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamawael12&theme=react&hide_border=true" width="710" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamawael12&" alt="osamawael12" /></p>
